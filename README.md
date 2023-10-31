@@ -13,7 +13,8 @@ The challenges are sorted chronologically and have their respective solutions/ex
 
 ## 🧪 Challenges
 
-- [forEach loop challenge](#🧪-foreach-challenge-03102023)
+- [forEach loop challenge](#foreach-challenge-03102023)
+- [Type coercion challenge (I)](#type-coercion-i-challenge-09102023)
 
 ### forEach challenge (03/10/2023)
 
@@ -29,3 +30,14 @@ console.log(numbers);
 ```
 
 [✅ solution](./solutions/forEach-challenge.md)
+
+### Type coercion challenge (I) (09/10/2023)
+
+```javascript
+const isTrue = true == [];
+const isFalse = true == ![];
+
+console.log(isTrue + isFalse);
+```
+
+[✅ solution](./solutions/type-coercion-I.md)
