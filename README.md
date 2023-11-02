@@ -31,6 +31,7 @@ Contributions in any programming language are welcome. But first of all, please 
 - [Find the X value challenge (I)](#find-the-x-value-challenge-i-18102023)
 - [Asynchronous loop challenge](#asynchronous-loop-challenge-i-20102023)
 - [Greater than - Less than challenge](#greater-than---less-than-challenge-28112023)
+- [Weird operation challenge (I)](#weird-operation-challenge-i-30112023)
 
 ### forEach challenge (03/10/2023)
 
@@ -132,3 +133,11 @@ console.log(3 > 2 > 1);
 ```
 
 [✅ solution](./solutions/greater-less-challenge.md)
+
+### Weird operation challenge (I) (30/11/2023)
+
+```javascript
+console.log(+!![]);
+```
+
+[✅ solution](./solutions/weird-operation-challenge-i.md)
