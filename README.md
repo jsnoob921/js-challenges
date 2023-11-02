@@ -29,6 +29,7 @@ Contributions in any programming language are welcome. But first of all, please 
 - [Default values challenge](#default-values-challenge-13102023)
 - [Asynchronous challenge (I)](#asynchronous-challenge-i-16102023)
 - [Find the X value challenge (I)](#find-the-x-value-challenge-i-18102023)
+- [Asynchronous loop challenge](#asynchronous-loop-challenge-i-20102023)
 
 ### forEach challenge (03/10/2023)
 
@@ -106,3 +107,17 @@ if (x !== x) {
 ```
 
 [✅ solution](./solutions/find-x-value-I.md)
+
+### Asynchronous loop challenge (20/10/2023)
+
+```javascript
+for (var i = 0; i < 3; i++) {
+    setTimeout(() => console.log(i), 1);
+}
+
+for (let i = 0; i < 3; i++) {
+    setTimeout(() => console.log(i), 1);
+}
+```
+
+[✅ solution](./solutions/asynchronous-loop-challenge.md)
