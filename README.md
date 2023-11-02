@@ -89,3 +89,17 @@ console.log(3);
 ```
 
 [✅ solution](./solutions/asynchronous-I.md)
+
+### Find the X value challenge (I) (18/10/2023)
+
+What is the value of X for the condition to be met?
+
+```javascript
+const x = ??;
+
+if (x !== x) {
+    console.log('Hello World');
+}
+```
+
+[✅ solution](./solutions/find-x-value-I.md)
