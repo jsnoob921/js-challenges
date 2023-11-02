@@ -21,10 +21,11 @@ The challenges are sorted chronologically and have their respective solutions/ex
 
 Contributions in any programming language are welcome. But first of all, please have a look at the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-<h2 align=center>🧪 Challenges</h2> 
+## <h2 align=center>🧪 Challenges</h2> 
 
 - [forEach loop challenge](#foreach-challenge-03102023)
 - [Type coercion challenge (I)](#type-coercion-challenge-i-09102023)
+- [Increment operator](#increment-operator-11102023)
 
 ### forEach challenge (03/10/2023)
 
@@ -51,3 +52,13 @@ console.log(isTrue + isFalse);
 ```
 
 [✅ solution](./solutions/type-coercion-I.md)
+
+### Increment operator (11/10/2023)
+
+```javascript
+let num = 15;
+
+console.log(num++);
+```
+
+[✅ solution](./solutions/increment-operator-challenge.md)
