@@ -27,4 +27,4 @@ function createPikachu({ size = 1, power = 250 } = {}) {
 createPikachu({})
 ```
 
-[⬅️ back](../README.md#default-values-13102023)
+[⬅️ back](../README.md#default-values-challenge-13102023)

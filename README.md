@@ -25,7 +25,10 @@ Contributions in any programming language are welcome. But first of all, please 
 
 - [forEach loop challenge](#foreach-challenge-03102023)
 - [Type coercion challenge (I)](#type-coercion-challenge-i-09102023)
-- [Increment operator](#increment-operator-11102023)
+- [Increment operator challenge](#increment-operator-challenge-11102023)
+- [Default values challenge](#default-values-challenge-13102023)
+- [Asynchronous challenge (I)](#asynchronous-challenge-i-16102023)
+- [Find the X value challenge (I)](#find-the-x-value-challenge-i-18102023)
 
 ### forEach challenge (03/10/2023)
 
