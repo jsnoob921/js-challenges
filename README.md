@@ -62,3 +62,16 @@ console.log(num++);
 ```
 
 [✅ solution](./solutions/increment-operator-challenge.md)
+
+### Default values (13/10/2023)
+
+```javascript
+function createPikachu({ size = 1, power = 250 }) {
+    return { name: 'Pikachu', size, power };
+}
+
+const p = createPikachu();
+console.log(p);
+```
+
+[✅ solution](./solutions/default-values-challenge.md)
