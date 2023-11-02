@@ -53,7 +53,7 @@ console.log(isTrue + isFalse);
 
 [✅ solution](./solutions/type-coercion-I.md)
 
-### Increment operator (11/10/2023)
+### Increment operator challenge (11/10/2023)
 
 ```javascript
 let num = 15;
@@ -63,7 +63,7 @@ console.log(num++);
 
 [✅ solution](./solutions/increment-operator-challenge.md)
 
-### Default values (13/10/2023)
+### Default values challenge (13/10/2023)
 
 ```javascript
 function createPikachu({ size = 1, power = 250 }) {
@@ -75,3 +75,17 @@ console.log(p);
 ```
 
 [✅ solution](./solutions/default-values-challenge.md)
+
+### Asynchronous challenge (I) (16/10/2023)
+
+```javascript
+console.log(1);
+
+setTimeout(() => {
+    console.log(2);
+}, 0);
+
+console.log(3);
+```
+
+[✅ solution](./solutions/asynchronous-I.md)
